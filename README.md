@@ -35,34 +35,46 @@ ________________________________________________________________________________
 ## Analysis
 ###  Who is using the bikes?
 
-Cyclistic Bike Share has 4.8 million rides that are broken into two group, members and casuals. 
+Cyclistic Bike Share has members and casuals who have accrued 4.8 million rides over the past 13 months.
 
-![a67aa27f-4f3c-4124-b3d8-da1593e0528a](https://user-images.githubusercontent.com/91980090/140192252-6761bf3e-7115-4dfe-8912-b76138b2581c.png)
-![6ef66150-f127-47fe-827c-d6e8245c5d19](https://user-images.githubusercontent.com/91980090/140192272-85064368-a668-4eaf-bb7e-2571a15a5539.png)
-![13345334-363e-4358-a054-b1456c4d32d3](https://user-images.githubusercontent.com/91980090/140192263-c6429ae1-30b1-4d60-814e-9fa2ebfbd581.png)
+![Total rides](https://user-images.githubusercontent.com/91980090/140583500-3678d841-77db-4a87-a9be-3b2791044205.jpeg)
+![Weekday Rides](https://user-images.githubusercontent.com/91980090/140583515-c22e7b23-1e85-4ee1-bf1c-4f6847d9e927.jpeg)
+![Monthly Rides](https://user-images.githubusercontent.com/91980090/140583525-669a62ab-49e0-4423-b611-f2fc8443daa2.jpeg)
 
-
-
-This data shows us that members use the bike more than casuals during weekdays and casuals overtaske members on weekends. There was a 23% increase in casual users and a 24% increase in members year over year in the month of September.
+This data shows that members use the bike more than casuals during weekdays, and casuals overtake members on weekends. Also, there was a 26.8% increase in casual users and a 13.2% increase in members in September year over year.
 
 ## What types of bikes are they using?
 Cyclistic Bike share has three types of bikes, classic, docked, and electric.  
 
-![0bf67a40-a691-4b6e-b017-84feab520f7f](https://user-images.githubusercontent.com/91980090/140181863-d40b6141-151f-462f-bafa-c83cc05497ad.png)
+![Bike Type](https://user-images.githubusercontent.com/91980090/140583547-fbf7ed96-aee6-4dbc-a59c-244f7580b08e.jpeg)
 
-After November classic bikes became the most used bikes. After January members stopped using docked bikes
+After November, classic bikes became the most used bikes. After January members stopped using docked bikes
 
 ## When are they using the bikes?
 Before I could run the numbers for duration I had to check if there were any outliers. Fur the duration calculation I removed the top and bottom 5% so the ouliers would not effect the averages. 
+![Duration](https://user-images.githubusercontent.com/91980090/140583648-100b1fdc-a54d-45a4-87f8-33d9cdd1ec48.jpeg)
 
-![c0d98883-61fd-4357-b003-c2e9e5a41925](https://user-images.githubusercontent.com/91980090/140185092-a6f4ffdc-4cb7-4c44-a8c2-e719103b7a8c.png)
+On Average, casuals ride 28% more time than members. 
 
-Casuals on average, ride 28% more time than members. 
+![Start hour](https://user-images.githubusercontent.com/91980090/140583764-2f8e7f20-d2ad-48a7-938f-1dd612f56949.jpeg)
 
-![af319efd-edbb-473b-b069-fe4e695ec346](https://user-images.githubusercontent.com/91980090/140192520-d7b4e0e4-0300-48ce-b3eb-87b610ded0cd.png)
-![730032fb-1718-4882-b018-f2d1e8d1536c](https://user-images.githubusercontent.com/91980090/140192878-b006b186-3f39-4b70-87e7-495c22818078.png)
-
-These charts show thatmore mebers use the bikes in the morning and evening when compared to casuals.
+These charts show that more members use the bikes in the morning and evening when compared to casuals.
 
 ## Where are they picking up and dropping of the bikes.
+![start loc](https://user-images.githubusercontent.com/91980090/140584522-4b8b299f-ec05-4a71-909b-43e31ac74d77.jpeg)
+![end loc](https://user-images.githubusercontent.com/91980090/140584526-24c11e24-7061-4c65-bbb0-a0da6fdbbefd.jpeg)
 
+
+# Conclusion
+Casual riders use the bikes for a longer duration. Casuals average 18-minute rides, and members average 13-minutes. That's a 27% difference in time spent with the bike.
+
+Members ride more from 5 am to 10 am, suggesting more members use the bikes to travel to work. From 10 am to 5 pm, members and casuals just about even out. Then, from 5 pm to 9 pm, members overtake casuals again. 
+
+A glance at the maps, and four things pop out:
+1. The density of casual riders starting and ending their rides in park and waterside locations. 
+2. The similarities between the density between members and casuals north of latitude 41.92. 
+3. The increase in density in members south of latitude 41.88 and west of longitude -87.650, a university area.
+4. There is very little change in the density maps between start and end locations. 
+
+The duration and density location differences between members and casuals suggest that casuals primarily use bikes for leisure and short exploration. In contrast, members primarily use bikes for work and school. 
+One thing to note is that both members and casuals use classic bikes vastly more than other bikes, suggesting that users also use the bikes to be healthier, or there are not enough of the other bikes.
