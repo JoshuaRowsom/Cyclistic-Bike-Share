@@ -24,7 +24,6 @@ library(dplyr)
 library(scales)
 library(ggplot2)
 ```
-If you are new to R, you need to ```install.packages(name of package)``` before you can load the with ```librabry(name of package)```
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 ## Cleaning
