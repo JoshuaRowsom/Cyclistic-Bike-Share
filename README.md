@@ -9,7 +9,7 @@ I asked the following questions:
 1. Who is using the bikes?
 2. What are they doing with the bikes, and what types of bikes are they using?
 3. When are they using the bikes?
-4. Where do there trip take them?
+4. Where do there trips take them?
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ## Prerequisites
