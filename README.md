@@ -65,7 +65,7 @@ These charts show that more members use the bikes in the morning and evening whe
 
 
 # Conclusion
-Casual riders use the bikes for a longer duration. Casuals average 18-minute rides, and members average 13-minutes. That's a 27% difference in time spent with the bike.
+Casual riders use the bikes for a longer duration, an average of 18-minute rides verse members' average of 13-minutes. That's a 27% difference in time spent with the bike.
 
 Members ride more from 5 am to 10 am, suggesting more members use the bikes to travel to work. From 10 am to 5 pm, members and casuals just about even out. Then, from 5 pm to 9 pm, members overtake casuals again. 
 
