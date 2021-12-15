@@ -50,7 +50,7 @@ Cyclistic Bike share has three types of bikes, classic, docked, and electric.
 After November, classic bikes became the most used bikes. After January members stopped using docked bikes
 
 ## When are they using the bikes?
-Before I could run the numbers for duration I had to check if there were any outliers. Fur the duration calculation I removed the top and bottom 5% so the ouliers would not effect the averages. 
+Before I could run the numbers for duration I had to check if there were any outliers. For the duration calculation I removed the top and bottom 5% so the ouliers would not effect the averages. 
 ![Duration](https://user-images.githubusercontent.com/91980090/140583648-100b1fdc-a54d-45a4-87f8-33d9cdd1ec48.jpeg)
 
 On Average, casuals ride 28% more time than members. 
